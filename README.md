@@ -42,4 +42,10 @@ A system that monitors network traffic, detects malicious behavior or attacks (e
 | Network       | Wireshark, GNS3, VirtualBox                                                                                          |
 | Programming   | - Frontend: React.js, Chart.js, D3.js<br>- Backend: Node.js / Express.js<br>- DB: Mongo.db<br>- Real-Time: Socket.io |
 
-### If Opportunity doesn't knock, Build a Door 🚪
+---
+
+### 🌟 **Quote**
+
+---
+
+##### If Opportunity doesn't knock, Build a Door 🚪
