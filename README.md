@@ -46,6 +46,4 @@ A system that monitors network traffic, detects malicious behavior or attacks (e
 
 ### 🌟 **Quote**
 
----
-
 ##### If Opportunity doesn't knock, Build a Door 🚪
