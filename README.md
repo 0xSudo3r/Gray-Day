@@ -1,9 +1,13 @@
-### 💡 فكرة المشروع: "نظام كشف التسلل الذكي (Smart Intrusion Detection System) مع Dashboard"
+### 💡 Project Idea: IDS with Dashboard"
 
+---
 
 ### 📝 **Description**
 
 A system that monitors network traffic, detects malicious behavior or attacks (e.g., DDoS, MITM), and visualizes the data in a live dashboard. It combines Cybersecurity, Network, and Programming in one integrated project.
+
+---
+
 ### 📊 **Team Task Distribution Table**
 
 | **Member**       | **Field**                         | **Main Responsibilities**                                                                    |
@@ -18,7 +22,7 @@ A system that monitors network traffic, detects malicious behavior or attacks (e
 
 ---
 
-## 🕒 **تقدير زمني واقعي (3 إلى 4 أسابيع)**
+### 🕒 **Timeline 3-weeks : 4-weeks**
 
 | **Phase**                                  | **Duration** | **Tasks**                                                                                                     |
 | ------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -29,6 +33,8 @@ A system that monitors network traffic, detects malicious behavior or attacks (e
 | 🚀 Week 4 – **Polishing & Extra Features** | 4–6 أيام     | - Add login/user roles<br>- Export to PDF/email alerts<br>- Fix bugs & UI polish                              |
 
 ---
+
+### 🌴 **Tech-Tree**
 
 | **Field**     | **Technologies**                                                                                                     |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- |
