@@ -12,7 +12,7 @@ A system that monitors network traffic, detects malicious behavior or attacks (e
 
 | **Member**       | **Field**                         | **Main Responsibilities**                                                                    |
 | ---------------- | --------------------------------- | -------------------------------------------------------------------------------------------- |
-| **0xSudo3r**     | Cybersecurity                     | - Analyze attack types (DDoS, MITM, etc.)<br>- Define attack patterns and behavior           |
+| **0xelC4mino**     | Cybersecurity                     | - Analyze attack types (DDoS, MITM, etc.)<br>- Define attack patterns and behavior           |
 | **Akram**        | Cybersecurity                     | - Configure and integrate IDS (Snort/Suricata)<br>- Create detection rules and handle alerts |
 | **Gaber**        | Networking                        | - Design virtual network (GNS3/VirtualBox)<br>- Simulate users, servers, and attack sources  |
 | **Omar**         | Networking                        | - Generate and capture traffic (normal + malicious)<br>- Analyze packets and forward to IDS  |
