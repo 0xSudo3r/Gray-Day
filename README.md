@@ -17,7 +17,7 @@ A system that monitors network traffic, detects malicious behavior or attacks (e
 | **Gaber**        | Networking                        | - Design virtual network (GNS3/VirtualBox)<br>- Simulate users, servers, and attack sources  |
 | **Omar**         | Networking                        | - Generate and capture traffic (normal + malicious)<br>- Analyze packets and forward to IDS  |
 | **Sultan**       | Programming (Frontend)            | - Build Dashboard UI (React/Vue)<br>- Display alerts, graphs, traffic stats                  |
-| **Tokhy Al3zem** | Programming (Backend)             | - Develop backend APIs (Flask/Django)<br>- Connect IDS → DB → Dashboard                      |
+| **Tokhy** | Programming (Backend)             | - Develop backend APIs (Flask/Django)<br>- Connect IDS → DB → Dashboard                      |
 | **Abdel3lem**    | Programming (Real-Time & Add-ons) | - Implement real-time updates (Socket.io)<br>- Add features like email/Telegram alerts       |
 
 ---
